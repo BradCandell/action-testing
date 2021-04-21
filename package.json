@@ -1,0 +1,22 @@
+{
+  "name": "bradcandell-action-testing",
+  "version": "1.0.0",
+  "description": "A simple node package for testing Github Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradCandell/action-testing.git"
+  },
+  "author": "Brad Candell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BradCandell/action-testing/issues"
+  },
+  "homepage": "https://github.com/BradCandell/action-testing#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
